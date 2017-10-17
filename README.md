@@ -1,8 +1,8 @@
 # PHYS220 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Nikki Schwartz and Riley Kendall**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-06-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-06-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-06-nikki_and_riley.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-06-nikki_and_riley)
 
 ## Specification
 
