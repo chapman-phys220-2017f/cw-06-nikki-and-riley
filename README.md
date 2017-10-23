@@ -1,6 +1,6 @@
 # PHYS220 CW 6
 
-**Author(s):** **Nikki Schwartz and Riley Kendall**
+**Author(s):** **Riley Kendall and Nikki Schwartz**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-06-nikki_and_riley.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-06-nikki_and_riley)
 
@@ -19,7 +19,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**I got more familar with Juypter and Latex syntax, and also learned how to analyze the problem on paper before attempting to code it, which was definitely necessary for the completion of this assignment.  The assignment took a longer amount of time than previous assignments due to a heavy emphasis  on mathematics.**
 
 ## Honor Pledge
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley Kendall and Nikki Schwartz**
