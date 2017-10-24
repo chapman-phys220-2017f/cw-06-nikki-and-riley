@@ -1,4 +1,4 @@
-# PHYS220 CW 6
+# PHYS220 CW 06
 
 **Author(s):** **Riley Kendall and Nikki Schwartz**
 
